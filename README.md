@@ -1,10 +1,16 @@
-- 👋 Hi, I’m @devprithvi
-- 👀 I’m interested in ...App Development
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...Android App Development
-- 📫 How to reach me ...Mail me @devprithvi.19@gmail.com
+## 👋 Hi there, Welcome to my GitHub!
 
-<!---
-devprithvi/devprithvi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm **Prithvi Kumar**, a Software Engineer with 3+ years of experience working across Full Stack Development, Android, AI, and Backend Systems.
+
+### - 📱 Android + Kotlin Projects
+- 💡 Data Structures & Algorithms (DSA) practice
+
+### 📬 Stay in Touch
+- 🎥 Watch detailed tutorials on my [https://www.youtube.com/@androidbyprithvi](#)
+- 💼 Connect with me on [https://www.linkedin.com/devprithvi](#)
+
+---
+
+> “Code. Learn. Share. Repeat.”
+
+🧑‍💻 `@devprithvi`
