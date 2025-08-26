@@ -23,4 +23,4 @@ cross-functional collaboration.☕️
 
 <img width="100" height="30" alt="image" src="https://github.com/user-attachments/assets/b0c4ae39-449d-4b8c-be5a-e19313fe05c2" />
 
-https://lh3.googleusercontent.com/LYUDWiiqyTSiwzbPsJnYhfTzA3kUAoYgRy_1mpKTZOuLtpaMTaNdPKm8Xesm5mxA_zUSIGy6RO4PxhUnIDgTgbmroxgVpudnc0XKWW0cByZXppI2WGo=n-w1440-h810-fcrop64=1,000011c8ffffef1c-rw
+[https://lh3.googleusercontent.com/LYUDWiiqyTSiwzbPsJnYhfTzA3kUAoYgRy_1mpKTZOuLtpaMTaNdPKm8Xesm5mxA_zUSIGy6RO4PxhUnIDgTgbmroxgVpudnc0XKWW0cByZXppI2WGo=n-w1440-h810-fcrop64=1,000011c8ffffef1c-rw]
