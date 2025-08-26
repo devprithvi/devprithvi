@@ -17,6 +17,13 @@
 ### - 📱 Android + Kotlin Projects
 - 💡 Data Structures & Algorithms (DSA) practice
 
+  <p align="center">
+  <img src="https://img.shields.io/badge/MSc-Computer_Science-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Experience-3+_Years-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Location-Ireland-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Open_to-Job_Opportunities-red?style=for-the-badge" />
+</p>
+
 ### 📬 Stay in Touch
 - 🎥 Watch detailed tutorials on my [https://www.youtube.com/@androidbyprithvi](#)
 - 💼 Connect with me on [https://www.linkedin.com/devprithvi](#)
@@ -32,12 +39,7 @@
   <a href="https://twitter.com/yourusername"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/MSc-Computer_Science-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Experience-3+_Years-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Location-Ireland-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Open_to-Job_Opportunities-red?style=for-the-badge" />
-</p>
+
 
 
 
