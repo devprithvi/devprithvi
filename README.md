@@ -1,11 +1,19 @@
-## 👋 Hi there, Welcome to my GitHub!
+<div align="center">
+  <img width="100%" height="auto" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Your%20Name&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
+</div>
 
-Experienced Android Developer with 3+ years of expertise in building scalable, user-centric mobile
-applications using Kotlin and modern Android frameworks. Recently completed MSc in Artificial
-Intelligence at Dublin Business School, equipped with advanced knowledge to integrate cutting-edge AI
-solutions into mobile development. Proven track record of delivering high-impact applications in fintech
-and edtech sectors, with strong technical skills in MVVM architecture, payment integrations, and
-cross-functional collaboration.☕️
+<h1 align="center">Hi 👋, I'm Prithvi</h1>
+<h3 align="center">AI/ML Engineer & Mobile Developer</h3>
+
+
+## 🚀 About Me
+
+- 🎓 **MSc Graduate** specializing in AI/ML and Information Retrieval
+- 📱 **3+ years** of Android development experience
+- 🐍 Expert in **Python, TF-IDF, SBERT** for resume-job matching systems  
+- 🔍 Currently seeking opportunities in **Ireland's tech market**
+- 📊 Passionate about **Machine Learning, Deep Learning & Mobile Development**
+- 🌱 Always exploring new technologies and frameworks
 
 ### - 📱 Android + Kotlin Projects
 - 💡 Data Structures & Algorithms (DSA) practice
@@ -17,8 +25,14 @@ cross-functional collaboration.☕️
 ---
 
 > “Code. Learn. Share. Repeat.”
+<h3 align="center">🤝 Connect with Me</h3>
+<p align="center">
+  <a href="mailto:your.email@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/yourusername"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://twitter.com/yourusername"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+</p>
 
-🧑‍💻 `@devprithvi`
 
 
 <div align="center">
