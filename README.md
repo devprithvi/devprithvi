@@ -21,4 +21,4 @@ cross-functional collaboration.☕️
 🧑‍💻 `@devprithvi`
 
 
-<img width="384" height="131" alt="image" src="https://github.com/user-attachments/assets/b0c4ae39-449d-4b8c-be5a-e19313fe05c2" />
+<img width="100" height="30" alt="image" src="https://github.com/user-attachments/assets/b0c4ae39-449d-4b8c-be5a-e19313fe05c2" />
