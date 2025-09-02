@@ -24,6 +24,15 @@
   <img src="https://img.shields.io/badge/Open_to-Job_Opportunities-red?style=for-the-badge" />
 </p>
 
+
+<div align="center">
+  <!-- Programming Languages -->
+  <img width="120" height="40" alt="Android" src="https://github.com/user-attachments/assets/b0c4ae39-449d-4b8c-be5a-e19313fe05c2" />
+  <img width="120" height="40" alt="Kotlin" src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img width="120" height="40" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img width="120" height="40" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</div>
+
 ### 📬 Stay in Touch
 - 🎥 Watch detailed tutorials on my [https://www.youtube.com/@androidbyprithvi](#)
 - 💼 Connect with me on [https://www.linkedin.com/devprithvi](#)
@@ -38,18 +47,6 @@
   <a href="https://github.com/devprithvi"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://x.com/Prithviikumar"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 </p>
-
-
-
-
-
-<div align="center">
-  <!-- Programming Languages -->
-  <img width="120" height="40" alt="Android" src="https://github.com/user-attachments/assets/b0c4ae39-449d-4b8c-be5a-e19313fe05c2" />
-  <img width="120" height="40" alt="Kotlin" src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" />
-  <img width="120" height="40" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img width="120" height="40" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-</div>
 
 <div align="center">
   <!-- AI/ML/DL Stack -->
