@@ -34,8 +34,8 @@
 </div>
 
 ### 📬 Stay in Touch
-- 🎥 Watch detailed tutorials on my [https://www.youtube.com/@androidbyprithvi](#)
-- 💼 Connect with me on [https://www.linkedin.com/devprithvi](#)
+- 🎥 Watch detailed tutorials on my [[https://www.youtube.com/@androidbyprithvi](https://www.youtube.com/@androidbyprithvi)](#)
+- 💼 Connect with me on [[https://www.linkedin.com/devprithvi](https://www.linkedin.com/in/devprithvi/)](#)
 
 ---
 
