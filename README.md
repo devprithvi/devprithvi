@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Prithvi</h1>
-<h3 align="center">AI/ML Engineer & Mobile Developer</h3>
+<h3 align="center">Android Developer</h3>
 
 
 ## 🚀 About Me
@@ -41,10 +41,8 @@
 - 💡 Data Structures & Algorithms (DSA) practice
 
   <p align="center">
-  <img src="https://img.shields.io/badge/MSc-Artificial Intelligence-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Experience-3+_Years Android Development-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Location-Ireland-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Open_to-Job_Opportunities-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MSc-Artificial Intelligence-blue?style=for-the-badge" />
 </p>
 
 <div align="center">
@@ -53,6 +51,7 @@
   <img width="120" height="40" alt="Kotlin" src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" />
   <img width="120" height="40" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img width="120" height="40" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img width="120" height="40" alt="Deep Learning" src="https://img.shields.io/badge/Deep%20Learning-000000?style=for-the-badge&logo=pytorch&logoColor=white" />
 </div>
 
 ### 📬 Stay in Touch
@@ -60,8 +59,6 @@
 - 💼 Connect with me on [[https://www.linkedin.com/devprithvi](https://www.linkedin.com/in/devprithvi/)](#)
 
 ---
-
-> “Code. Learn. Share. Repeat.”
 <h3 align="center">🤝 Connect with Me</h3>
 <p align="center">
   <a href="mailto:o.prithvi.kumar@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -69,14 +66,4 @@
   <a href="https://github.com/devprithvi"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://x.com/Prithviikumar"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 </p>
-
-<div align="center">
-  <!-- AI/ML/DL Stack -->
-  <img width="120" height="40" alt="Machine Learning" src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img width="120" height="40" alt="Deep Learning" src="https://img.shields.io/badge/Deep%20Learning-000000?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img width="120" height="40" alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img width="120" height="40" alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img width="120" height="40" alt="Scikit Learn" src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img width="120" height="40" alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white" />
-</div>
 
