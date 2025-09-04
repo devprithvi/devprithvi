@@ -13,7 +13,7 @@
 - 📊 Passionate about **Machine Learning, Deep Learning & Mobile Development**
   
 ## Published Mobile Applications
-<img width="100%" height="auto" src="https://play-lh.googleusercontent.com/VpotweHRZ8haJ8ownzN_iyo6ZvII-oiK9_rVJgp073LCuLOk1wVZ2CdlLcPlnEehQw=w480-h960-rw" />
+<img width="120" height="120" src="https://play-lh.googleusercontent.com/VpotweHRZ8haJ8ownzN_iyo6ZvII-oiK9_rVJgp073LCuLOk1wVZ2CdlLcPlnEehQw=w480-h960-rw" />
 
 # 🔋 BatteryX - Battery Information & Monitoring App
 - **Platform:** Android
@@ -27,6 +27,7 @@
   - Device comparison functionality
 - **Play Store:** [Download BatteryX](https://play.google.com/store/apps/details?id=com.app.batteryx)
 
+<img width="120" height="120" src="https://play-lh.googleusercontent.com/EFok7WIuzFKYoW-4oBwd6gipgjErOM0P1SP8HuyqrXvG0O32ssRELm9oRcGFt4EZv-A=w480-h960-rw" />
 # 🎨 CleanWall - Minimalist Wallpaper Collection
 - **Platform:** Android
 - **Package ID:** com.moboinfo.cleanwall
