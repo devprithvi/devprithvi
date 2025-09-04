@@ -14,6 +14,31 @@
 - 📊 Passionate about **Machine Learning, Deep Learning & Mobile Development**
 - 🌱 Always exploring new technologies and frameworks
 
+## Published Mobile Applications
+
+### 🔋 BatteryX - Battery Information & Monitoring App
+- **Platform:** Android
+- **Package ID:** com.app.batteryx
+- **Description:** Comprehensive battery monitoring application that displays detailed battery information and measures capacity (mAh). Features include real-time device information (CPU, GPU, RAM, Display), customizable battery notifications, power-saving tips, charging status monitoring, and device comparison tools.
+- **Key Features:**
+  - Battery capacity measurement and monitoring
+  - Complete device information dashboard
+  - Smart battery notifications
+  - Power optimization tips
+  - Device comparison functionality
+- **Play Store:** [Download BatteryX](https://play.google.com/store/apps/details?id=com.app.batteryx)
+
+### 🎨 CleanWall - Minimalist Wallpaper Collection
+- **Platform:** Android
+- **Package ID:** com.moboinfo.cleanwall
+- **Description:** Curated collection of minimalist wallpapers designed to keep your phone elegant and aesthetically pleasing. Focuses on clean, plain designs that enhance your device's visual appeal with simplicity.
+- **Key Features:**
+  - Minimalist and aesthetic wallpaper collection
+  - Clean, elegant designs
+  - Easy-to-use interface
+  - High-quality wallpapers for all screen types
+- **Play Store:** [Download CleanWall](https://play.google.com/store/apps/details?id=com.moboinfo.cleanwall)
+
 ### - 📱 Android + Kotlin Projects
 - 💡 Data Structures & Algorithms (DSA) practice
 
