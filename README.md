@@ -8,15 +8,13 @@
 
 ## 🚀 About Me
 
-- 🎓 **MSc Graduate** specializing in AI/ML and Information Retrieval
 - 📱 **3+ years** of Android development experience 
-- 🔍 Currently seeking opportunities in **Ireland's tech market**
+- 🎓 **MSc Graduate** specializing in AI/ML and Information Retrieval
 - 📊 Passionate about **Machine Learning, Deep Learning & Mobile Development**
-- 🌱 Always exploring new technologies and frameworks
-
+  
 ## Published Mobile Applications
 
-### 🔋 BatteryX - Battery Information & Monitoring App
+# 🔋 BatteryX - Battery Information & Monitoring App
 - **Platform:** Android
 - **Package ID:** com.app.batteryx
 - **Description:** Comprehensive battery monitoring application that displays detailed battery information and measures capacity (mAh). Features include real-time device information (CPU, GPU, RAM, Display), customizable battery notifications, power-saving tips, charging status monitoring, and device comparison tools.
@@ -28,7 +26,7 @@
   - Device comparison functionality
 - **Play Store:** [Download BatteryX](https://play.google.com/store/apps/details?id=com.app.batteryx)
 
-### 🎨 CleanWall - Minimalist Wallpaper Collection
+# 🎨 CleanWall - Minimalist Wallpaper Collection
 - **Platform:** Android
 - **Package ID:** com.moboinfo.cleanwall
 - **Description:** Curated collection of minimalist wallpapers designed to keep your phone elegant and aesthetically pleasing. Focuses on clean, plain designs that enhance your device's visual appeal with simplicity.
@@ -48,7 +46,6 @@
   <img src="https://img.shields.io/badge/Location-Ireland-orange?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Open_to-Job_Opportunities-red?style=for-the-badge" />
 </p>
-
 
 <div align="center">
   <!-- Programming Languages -->
