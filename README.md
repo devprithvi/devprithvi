@@ -8,8 +8,8 @@
 
 ## 🚀 About Me
 
-- 📱 **3+ years** of Android development experience 
 - 🎓 **MSc Graduate** specializing in AI/ML and Information Retrieval
+- 📱 **3+ years** of Android development experience 
 - 📊 Passionate about **Machine Learning, Deep Learning & Mobile Development**
   
 ## Published Mobile Applications
